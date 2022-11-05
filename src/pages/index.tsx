@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
       <div className={styles.container}>
         <img src="./img/logo.png" alt="" />
-        <h1>Em Breve!!!</h1>
+        <h1>Em Breve!</h1>
       </div>
     </>
   );
